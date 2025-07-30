@@ -28,7 +28,7 @@
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:krishnendukhaskal.1@gmail.com)
 
-📄 Portfolio: [your-portfolio-link](https://your-portfolio.netlify.app)
+📄 Portfolio: [your-portfolio-link](https://delicate-axolotl-523102.netlify.app/)
 
 ---
 
